@@ -1,5 +1,7 @@
 env.ino
-*-env.ino
+*-env.*
+*_env.*
+
 
 # Prerequisites
 *.d
